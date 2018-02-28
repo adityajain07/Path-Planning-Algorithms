@@ -9,7 +9,7 @@ This project implements the algorithm of RRT.
 
 ## Path: 1st Environment
 Green circle: start position  <br />
-Yellow circle: goal position
+Yellow circle: goal position  <br />
 ![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/RRT/Plots/RRT_Conf1.png)
 
 
