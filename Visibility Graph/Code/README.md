@@ -5,4 +5,4 @@
 
 Note:
 - other files are helper files for the above main scripts
-- To switch between the three environment configurations, comment the others in the code (well documented and commented code)
+- To switch between the three environment configurations, comment the others in visible_graph.m (well documented and commented code)
