@@ -10,16 +10,16 @@ This project implements the algorithm of RRT.
 ## Path: 1st Environment
 Green circle: start position
 Yellow circle: goal position
-![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/Visibility%20Graph/Plots/VisGraph_Conf1.png)
+![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/RRT/Plots/RRT_Conf1.png)
 
 
 
 
 ## Path: 2nd Environment
-![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/Visibility%20Graph/Plots/VisGraph_Conf2.png)
+![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/RRT/Plots/RRT_Conf2.png)
 
 
 
 
 ## Path: 3rd Environment
-![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/Visibility%20Graph/Plots/VisGraph_Conf3.png)
+![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/RRT/Plots/RRT_Conf3.png)
