@@ -8,6 +8,8 @@ This project implements the algorithm of visibility graph.
 
 
 ## Path: 1st Environment
+Green circle: start position
+Yellow circle: goal position
 ![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/Visibility%20Graph/Plots/VisGraph_Conf1.png)
 
 
