@@ -1,5 +1,5 @@
 # About 
-This project implements the algorithm of RRT.
+This project implements the algorithm of RRT*.
 
 ## Rewiring
 Two types of rewiring happens in RRT*, in addition to the standard RRT: <br />
