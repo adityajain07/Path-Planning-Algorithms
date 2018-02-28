@@ -21,7 +21,7 @@ Note: Only the first rewiring has been implemented till now.
 
 ## Path: 1st Environment
 Green circle: start position  <br />
-Yellow circle: goal position
+Yellow circle: goal position  <br />
 ![alt text](https://github.com/adityajain07/Path-Planning-Algorithms/blob/master/RRT_Star/Plots/RRTstar_Conf1.png)
 
 
